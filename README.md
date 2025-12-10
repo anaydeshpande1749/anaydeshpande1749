@@ -64,14 +64,7 @@
 <p align="center">
   <!-- <!<img src="https://github.com/user-attachments/assets/d9eb53b5-5e66-4ab3-b286-89e64a3efc55" width="400" /> -->
   
-  <img src="https://github.com/user-attachments/assets/b93ef4c6-b38e-4322-9ebe-f46da99f4bc9" width="450" />
-
-
-
-https://github.com/user-attachments/assets/14ea2679-7ebe-455e-8d89-47c789dbe555
-
-
-
+  <img src="https://github.com/user-attachments/assets/2951364a-932c-4350-8625-e3cb658b78c1" width="500" />
 
 </p>
 
