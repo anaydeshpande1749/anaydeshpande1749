@@ -74,19 +74,13 @@
 <div align="center">
 
 ### 🔥 Stats & Streak
-<a href="https://github-readme-stats.vercel.app/api?username=anaydeshpande1749">
-  <img src="https://github-readme-stats.vercel.app/api?username=anaydeshpande1749&show_icons=true&theme=tokyonight" height="180px"/>
-</a>
-<a href="https://github-readme-streak-stats.herokuapp.com">
-  <img src="https://streak-stats.demolab.com?user=anaydeshpande1749&theme=tokyonight" height="180px"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=anaydeshpande1749&show_icons=true&theme=tokyonight" height="180px"/>
+<img src="https://streak-stats.demolab.com?user=anaydeshpande1749&theme=tokyonight" height="180px"/>
 
 ---
 
 ### 🖥️ Most Used Languages
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=anaydeshpande1749">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaydeshpande1749&layout=compact&theme=tokyonight" height="180px"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaydeshpande1749&layout=compact&theme=tokyonight" height="180px"/>
 
 ---
 
