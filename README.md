@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anay Deshpande</h1>
+<h1 align="center">Hi 👋, I'm Anay </h1>
 <h3 align="center">🚀 MERN Stack Developer | 🎯 DevOps Enthusiast | 🧠 Lifelong Learner</h3>
 
 <!-- <p align="center">
