@@ -23,6 +23,7 @@
 - 🧩 **Portfolio:** *Your Portfolio Link Here*  
   ➤ e.g., https://your-portfolio-link.com  
 - 📄 **Resume:** [*Resume*]*(https://drive.google.com/file/d/1LnzNoIye_4UZG5WSZrYPI9kGZInAT9jj/view?usp=sharing)*  
+- 📄 **Resume:** [*Resume(https://drive.google.com/file/d/1LnzNoIye_4UZG5WSZrYPI9kGZInAT9jj/view?usp=sharing)*]*(https://drive.google.com/file/d/1LnzNoIye_4UZG5WSZrYPI9kGZInAT9jj/view?usp=sharing)*  
 
 ---
 
