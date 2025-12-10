@@ -69,6 +69,35 @@
 </p>
 
 ---
+## ⚡ GitHub Stats ⚡
+
+<div align="center">
+
+### 🔥 Stats & Streak
+<a href="https://github-readme-stats.vercel.app/api?username=anaydeshpande1749">
+  <img src="https://github-readme-stats.vercel.app/api?username=anaydeshpande1749&show_icons=true&theme=tokyonight" height="180px"/>
+</a>
+<a href="https://github-readme-streak-stats.herokuapp.com">
+  <img src="https://streak-stats.demolab.com?user=anaydeshpande1749&theme=tokyonight" height="180px"/>
+</a>
+
+---
+
+### 🖥️ Most Used Languages
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=anaydeshpande1749">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaydeshpande1749&layout=compact&theme=tokyonight" height="180px"/>
+</a>
+
+---
+
+### 🧩 Additional GitHub Stats
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anaydeshpande1749&theme=tokyonight"/>
+
+</div>
+
+---
+
+---
 
 ## 🧠 Fun Facts
 
