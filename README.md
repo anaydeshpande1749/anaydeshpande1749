@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Your Full Name</h1>
+<h1 align="center">Hi 👋, I'm Anay Deshpande</h1>
 <h3 align="center">🚀 MERN Stack Developer | 🎯 DevOps Enthusiast | 🧠 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=anaydeshpande1749&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
 </p>
 
 ---
