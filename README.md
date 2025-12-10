@@ -62,7 +62,13 @@
 </p> -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d9eb53b5-5e66-4ab3-b286-89e64a3efc55" width="400" />
+  <!-- <!<img src="https://github.com/user-attachments/assets/d9eb53b5-5e66-4ab3-b286-89e64a3efc55" width="400" /> -->
+  
+  <img src="https://github.com/user-attachments/assets/b93ef4c6-b38e-4322-9ebe-f46da99f4bc9" width="450" />
+
+
+
+
 </p>
 
 ---
