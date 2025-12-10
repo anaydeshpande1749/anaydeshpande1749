@@ -71,16 +71,28 @@
 ---
 ## ⚡ GitHub Stats ⚡
 
-<div align="center">
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 
-### 🔥 Stats & Streak
-<img src="https://github-readme-stats.vercel.app/api?username=anaydeshpande1749&show_icons=true&theme=tokyonight" height="180px"/>
-<img src="https://streak-stats.demolab.com?user=anaydeshpande1749&theme=tokyonight" height="180px"/>
+<div align=center>
 
----
+  <img width=390 src="https://streak-stats.demolab.com?user=anaydeshpande1749&theme=react&count_private=true&border_radius=10" alt="streak stats"/>
 
-### 🖥️ Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaydeshpande1749&layout=compact&theme=tokyonight" height="180px"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=anaydeshpande1749&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
+
+  <br/>
+
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaydeshpande1749&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs"/>
+
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=199&color=timeGradient&reversal=false&fontAlign=35&section=footer" alt="Footer"/>
 
 ---
 
