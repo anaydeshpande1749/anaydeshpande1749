@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Anay Deshpande</h1>
 <h3 align="center">🚀 MERN Stack Developer | 🎯 DevOps Enthusiast | 🧠 Lifelong Learner</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anaydeshpande1749&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
-</p>
+</p> -->
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on: **Your current project**  
+- 🔭 Currently working on: **SkillDuels**  
 - 🌱 Exploring **DevOps tools & CI/CD pipelines (Docker, Kubernetes, GitHub Actions)**  
 - 🎓 I'm a **3rd year Computer Engineering student**  
 - 🎨 Passionate about **building beautiful UIs with React**  
@@ -22,7 +22,7 @@
 
 - 🧩 **Portfolio:** *Your Portfolio Link Here*  
   ➤ e.g., https://your-portfolio-link.com  
-- 📄 **Resume:** *Your Resume Link Here (Google Drive)*  
+- 📄 **Resume:** *[Your Resume Link Here (Google Drive)](https://drive.google.com/file/d/1LnzNoIye_4UZG5WSZrYPI9kGZInAT9jj/view?usp=sharing)*  
 
 ---
 
