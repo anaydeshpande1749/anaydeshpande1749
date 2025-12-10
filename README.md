@@ -54,7 +54,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180px" />
-  ![1](https://github.com/user-attachments/assets/d9eb53b5-5e66-4ab3-b286-89e64a3efc55)
+  <img src="https://github.com/user-attachments/assets/d9eb53b5-5e66-4ab3-b286-89e64a3efc55" width="400" />
+
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180px" />
 </p>
