@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anay </h1>
 <h3 align="center">🚀 MERN Stack Developer | 🎯 DevOps Enthusiast | 🧠 Lifelong Learner</h3>
 
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anaydeshpande1749&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
-</p> -->
 
 ---
 
@@ -19,10 +16,7 @@
 ---
 
 ## 🌐 Portfolio & Resume
-<!--  
-- 🧩 **Portfolio:** *Your Portfolio Link Here*  
-  ➤ e.g., https://your-portfolio-link.com  
-  -->
+
 - 📄 **Resume:** [Anay's Resume](https://drive.google.com/file/d/1LnzNoIye_4UZG5WSZrYPI9kGZInAT9jj/view?usp=sharing)  
 
 ---
@@ -50,19 +44,8 @@
 
 ---
 
-
-
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anaydeshpande1749&show_icons=true&theme=tokyonight" height="180px" />
-  <img src="https://github.com/user-attachments/assets/d9eb53b5-5e66-4ab3-b286-89e64a3efc55" width="400" />
-## 📊 GitHub Stats
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaydeshpande1749&layout=compact&theme=tokyonight" height="180px" />
-</p> -->
-
 <p align="center">
-  <!-- <!<img src="https://github.com/user-attachments/assets/d9eb53b5-5e66-4ab3-b286-89e64a3efc55" width="400" /> -->
+ 
   
   <img src="https://github.com/user-attachments/assets/2951364a-932c-4350-8625-e3cb658b78c1" width="500" />
 
@@ -71,45 +54,26 @@
 ---
 ## ⚡ GitHub Stats ⚡
 
+---
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-<div align=center>
+<div align="center">
 
-  <img width=390 src="https://streak-stats.demolab.com?user=anaydeshpande1749&theme=react&count_private=true&border_radius=10" alt="streak stats"/>
+   <img width=390 src="https://streak-stats.demolab.com?user=anaydeshpande1749&theme=react&count_private=true&border_radius=10" alt="streak stats"/>
 
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=anaydeshpande1749&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
+  <img width="390" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anaydeshpande1749&show_icons=true&theme=react&include_all_commits=true&count_private=true&border_radius=10" alt="readme stats"/>
 
   <br/>
 
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaydeshpande1749&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs"/>
+  <img width="325" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anaydeshpande1749&layout=compact&langs_count=8&theme=react&border_radius=10" alt="top langs"/>
 
 </div>
 
 <br/><br/>
 
-<hr/>
-
-<br/>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=199&color=timeGradient&reversal=false&fontAlign=35&section=footer" alt="Footer"/>
-
----
-
-### 🧩 Additional GitHub Stats
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anaydeshpande1749&theme=tokyonight"/>
 
 </div>
-
----
-
----
-
-## 🧠 Fun Facts
-
-- 🧩 Problem solver at heart  
-- 💬 Ask me about **React, Node.js, MongoDB, Docker, MERN Stack**  
-- 🌎 Open to collaboration, open-source & cool project ideas  
 
 ---
 
