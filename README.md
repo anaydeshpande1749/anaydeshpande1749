@@ -75,6 +75,13 @@
 
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=anaydeshpande1749&label=PROFILE+VIEWS&color=FF6B6B&style=for-the-badge&labelColor=2C3E50" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/anaydeshpande1749?label=FOLLOWERS&style=for-the-badge&color=4ECDC4&labelColor=2C3E50" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/anaydeshpande1749?label=TOTAL+STARS&style=for-the-badge&color=45B7D1&labelColor=2C3E50" alt="GitHub stars" />
+</div>
+
+
 ---
 
 ⭐ **Thanks for visiting my profile!  
