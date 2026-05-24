@@ -1,5 +1,11 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,100:FF3131&height=200&section=header&text=Anay%20Deshpande&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Anay </h1>
 <h3 align="center">🚀 MERN Stack Developer | 🎯 DevOps Enthusiast | 🧠 Lifelong Learner</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=66CCFF&center=true&vCenter=true&width=700&lines=I+love+Web+Development;I+make+Android+Apps;Curious+about+new+technologies;Improving+my+coding+skills;Learning+daily" />
+</p>
 
 
 ---
@@ -17,7 +23,29 @@
 
 ## 🌐 Portfolio & Resume
 
-- 📄 **Resume:** [Anay's Resume](https://drive.google.com/file/d/1LnzNoIye_4UZG5WSZrYPI9kGZInAT9jj/view?usp=sharing)  
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+<a href="https://anay01-portfolio.vercel.app/" target="_blank">
+  <img src="https://static.vecteezy.com/system/resources/previews/026/175/071/non_2x/student-avatar-round-flat-icon-vector.jpg" width="140" alt="Portfolio"/>
+</a>
+
+### 🌐 Portfolio
+
+</td>
+
+<td align="center" width="50%">
+
+<a href="https://drive.google.com/file/d/1LnzNoIye_4UZG5WSZrYPI9kGZInAT9jj/view?usp=sharing" target="_blank">
+  <img src="https://www.clipartmax.com/png/full/308-3085721_resume-clip-art.png" width="140" alt="Resume"/>
+</a>
+
+### 📄 Resume
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -51,11 +79,11 @@
 
 </p>
 
----
-## ⚡ GitHub Stats ⚡
 
 ---
-<h2 align="center">⚡ Stats ⚡</h2>
+
+
+<h2 align="center">⚡GitHub Stats ⚡</h2>
 <br>
 
 <div align="center">
@@ -82,7 +110,28 @@
 </div>
 
 
+<div align="center">
+
+<a href="https://ticker1234.netlify.app/" target="_blank">
+
+<img 
+src="https://ticker1234.netlify.app/ticker.gif"
+width="100%"
+height="70"
+/>
+
+</a>
+
+
+
+
+
+</div>
+
+
 ---
 
 ⭐ **Thanks for visiting my profile!  
 If you like my work, feel free to follow & connect!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,100:FF3131&height=120&section=footer" width="100%" />
