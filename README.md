@@ -124,6 +124,15 @@ height="70"
 
 
 
+<div align="center">
+
+<img width="80%" height="240" alt="Video Project 3_60fps" src="https://github.com/user-attachments/assets/b579c41c-924b-43c6-84ca-1b6ca0155797" />
+
+</div>
+
+
+
+
 
 
 </div>
