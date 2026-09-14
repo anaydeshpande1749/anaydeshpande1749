@@ -14,7 +14,7 @@
 
 - 🔭 Currently working on: **SkillDuels**  
 - 🌱 Exploring **DevOps tools & CI/CD pipelines (Docker, Kubernetes, GitHub Actions)**  
-- 🎓 I'm a **3rd year Computer Engineering student**  
+- 🎓 I'm a **Final year Computer Engineering student**  
 - 🎨 Passionate about **building beautiful UIs with React**  
 - ⚙️ And architecting **powerful backends with Node.js & Express**  
 - 📈 Always learning & building production-ready apps  
